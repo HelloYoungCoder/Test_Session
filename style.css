@@ -1,0 +1,9 @@
+/* This is added in branch */
+
+:root {
+     --font: 'Century Gothic';
+}
+
+body {
+     font-family: var(--font);
+}
